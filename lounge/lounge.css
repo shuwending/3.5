@@ -33,6 +33,7 @@
 
   background-image: url(images/cocktail.gif);
   background-repeat: repeat-x;
+  float: right;
 }
 #elixirs h2{
   color: black;
